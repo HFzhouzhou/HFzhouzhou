@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到我的GitHub个人主页！;我是岳傲天+-+一名热爱编程的开发者;让编程创造无限可能" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到HFzhouzhou的GitHub主页！;我是HFzhouzhou+-+一名热爱编程的开发者;让代码创造无限可能;探索技术的边界" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/yuaotian?label=关注者&style=social" alt="GitHub关注者" />
-  <img src="https://img.shields.io/github/stars/yuaotian?label=获赞&style=social" alt="GitHub星标" />
-  <img src="https://komarev.com/ghpvc/?username=yuaotian&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
+  <img src="https://img.shields.io/github/followers/HFzhouzhou?label=关注者&style=social" alt="GitHub关注者" />
+  <img src="https://img.shields.io/github/stars/HFzhouzhou?label=获赞&style=social" alt="GitHub星标" />
+  <img src="https://komarev.com/ghpvc/?username=HFzhouzhou&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
 </div>
 
 <br/>
@@ -14,11 +14,12 @@
 
 ### 👨‍💻 关于我
 
-- 🔭 正在从事~~令人兴奋~~的~~开源~~项目开发（连续熬夜，头发越来越少，你说我秃不秃？）
-- 🌱 专注于 Java、Go、C#、JS、Python、PHP、易语言（我啥都会一点，但是我啥都不精）
-- 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
-- 🎯 目标：为更多开源项目做出贡献（如果我有时间的话）
-- ⚡  我不想把时间浪费在无意义的事情上（哪怕拉屎没带纸））
+- 🔭 正在从事令人兴奋的开源项目开发
+- 🌱 专注于 Agent 开发
+- 💡 热衷于探索新技术栈和构建有趣的项目
+- 🎯 目标：为更多开源项目做出贡献，推动技术发展
+- ⚡ 享受编程带来的创造力和解决问题的乐趣
+- 🚀 持续学习，追求技术的深度和广度
 
 <br/>
 
@@ -41,29 +42,29 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuaotian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuaotian&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HFzhouzhou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFzhouzhou&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
 </div>
 
 ### 🐍 贡献图
 
-![贡献统计](https://raw.githubusercontent.com/yuaotian/yuaotian/refs/heads/output/github-contribution-grid-snake.svg)
+![贡献统计](https://raw.githubusercontent.com/HFzhouzhou/HFzhouzhou/refs/heads/output/github-contribution-grid-snake.svg)
 
 ### 📈 活动图表
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuaotian&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HFzhouzhou&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 ### ⌛ 编码时间统计
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuaotian&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days&locale=cn" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HFzhouzhou&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days&locale=cn" width="100%" />
 
 ### 🤝 联系方式
 
 <div align="center">
-  <a href="https://github.com/yuaotian">
+  <a href="https://github.com/HFzhouzhou">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yuaotian1998@163.com">
+  <a href="mailto:HFzhouzhou@example.com">
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- 微信：JavaRookie666 -->
@@ -77,7 +78,7 @@
 ### 💭 座右铭
 
 <div align="center">
-  <i>「迷茫是架空的屏障，苦旅是暗夜的迷藏。在那悠远时光的尽头，我们终将寻得属于自己的星辰大海。」</i>
+  <i>「代码改变世界，技术创造未来。在编程的道路上，每一次调试都是成长，每一行代码都是梦想。」</i>
 </div>
 
 <br/>
