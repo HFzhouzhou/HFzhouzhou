@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到HFzhouzhou的GitHub主页！;我是HFzhouzhou+-+一名热爱编程的开发者;让代码创造无限可能;探索技术的边界" />
-</div>
 
 
 
