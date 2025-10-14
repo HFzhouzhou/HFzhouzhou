@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到HFzhouzhou的GitHub主页！;我是HFzhouzhou+-+一名热爱编程的开发者;让代码创造无限可能;探索技术的边界" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/HFzhouzhou?label=关注者&style=social" alt="GitHub关注者" />
-  <img src="https://img.shields.io/github/stars/HFzhouzhou?label=获赞&style=social" alt="GitHub星标" />
-  <img src="https://komarev.com/ghpvc/?username=HFzhouzhou&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
-</div>
+
 
 <br/>
 
@@ -67,7 +63,7 @@
   <a href="https://github.com/HFzhouzhou">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:HFzhouzhou@example.com">
+  <a href="mailto:m7736097132@163.com">
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- 微信：JavaRookie666 -->
