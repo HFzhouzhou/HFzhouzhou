@@ -56,7 +56,10 @@
 
 ### ⌛ 编码时间统计
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HFzhouzhou&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days&locale=cn" width="100%" />
+<div align="center">
+  <i>Oh NO！还没有做好喔</i>
+</div>
+
 
 ### 🤝 联系方式
 
